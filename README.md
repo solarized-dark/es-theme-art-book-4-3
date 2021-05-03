@@ -1,6 +1,7 @@
-# Art Book 3:2, an EmulationStation theme for 3:2 resolutions
+# Art Book 4:3, an EmulationStation theme for 4:3 resolutions
 A simple theme for Emulation Station based on the look of a coffee table book.  Built and tested on 351Elec for the RG351P handheld.  Discussion for the base Art book theme is ongoing in this thread: https://retropie.org.uk/forum/topic/11728/new-theme-art-book
 
+Please note that this is entirely the work of @anthonycaccese. The only changes made here are upscaling png images and adjusting the display ratio.
 
 ## Preview
 
@@ -23,7 +24,7 @@ A simple theme for Emulation Station based on the look of a coffee table book.  
 
 ## Details
 
-- Built for 3:2 resolutions (specifically tested on the Anbernic RG351P running 351ELEC) 
+- Built for 4:3 resolutions (specifically tested on the Anbernic RG351V running 351ELEC) 
 - System, basic, detailed, video and grid views are supported
 - Support for "All Games", "Favorites", "Last Played" and "Custom Collections"
 
