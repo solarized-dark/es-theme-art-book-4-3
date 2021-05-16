@@ -1,7 +1,7 @@
 # Art Book 4:3, an EmulationStation theme for 4:3 resolutions
 A simple theme for Emulation Station based on the look of a coffee table book.  Built and tested on 351Elec for the RG351P handheld.  Discussion for the base Art book theme is ongoing in this thread: https://retropie.org.uk/forum/topic/11728/new-theme-art-book
 
-Please note that this is entirely the work of @anthonycaccese. The only changes made here are upscaling png images and adjusting the display ratio.
+Please note that this is entirely the work of @anthonycaccese. The only changes made here are adjusting the display ratio and font sizes for 640x480 consoles (e.g. RG351V).
 
 ## Preview
 
