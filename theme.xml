@@ -84,7 +84,7 @@ license:        creative commons CC-BY-NC-SA
          <size>0.9 0.64</size>
          <alignment>center</alignment>
          <lineSpacing>1.81</lineSpacing>
-         <fontSize>0.04</fontSize>
+         <fontSize>0.035</fontSize>
          <scrollSound>./_inc/sounds/select.wav</scrollSound>
          <fontPath>${bodyFont}</fontPath>
          <horizontalMargin>0.008</horizontalMargin>
@@ -211,17 +211,17 @@ license:        creative commons CC-BY-NC-SA
    <view name="menu">
       <menuText name="menutitle">
          <fontPath>${bodyFont}</fontPath>
-         <fontSize>0.034375</fontSize>
+         <fontSize>0.035</fontSize>
          <color>ffffff</color>
       </menuText>
       <menuText name="menufooter">
          <fontPath>${bodyFont}</fontPath>
-         <fontSize>0.0325</fontSize>
+         <fontSize>0.03</fontSize>
          <color>666666</color>
       </menuText>
       <menuText name="menutext">
          <fontPath>${bodyFont}</fontPath>
-         <fontSize>0.036</fontSize>
+         <fontSize>0.035</fontSize>
          <color>444444</color>
          <separatorColor>222222</separatorColor>
          <selectorColor>555555</selectorColor>
@@ -243,7 +243,7 @@ license:        creative commons CC-BY-NC-SA
          <origin>0 0</origin>
          <pos>0.020833333333333 0.034375</pos>
          <size>0.1666666666666667 0.03125</size>
-         <fontSize>0.03125</fontSize>
+         <fontSize>0.035</fontSize>
          <alignment>left</alignment>
          <verticalAlignment>center</verticalAlignment>
          <fontPath>${bodyFont}</fontPath>
